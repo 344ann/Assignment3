@@ -1,0 +1,14 @@
+/Users/annamiyoshi/RiderProjects/Assignment3/bin/Debug/net8.0/Assignment3
+/Users/annamiyoshi/RiderProjects/Assignment3/bin/Debug/net8.0/Assignment3.deps.json
+/Users/annamiyoshi/RiderProjects/Assignment3/bin/Debug/net8.0/Assignment3.runtimeconfig.json
+/Users/annamiyoshi/RiderProjects/Assignment3/bin/Debug/net8.0/Assignment3.dll
+/Users/annamiyoshi/RiderProjects/Assignment3/bin/Debug/net8.0/Assignment3.pdb
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfoInputs.cache
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfo.cs
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.dll
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/refint/Assignment3.dll
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.pdb
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/Assignment3.genruntimeconfig.cache
+/Users/annamiyoshi/RiderProjects/Assignment3/obj/Debug/net8.0/ref/Assignment3.dll
